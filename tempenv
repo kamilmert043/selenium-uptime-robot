@@ -1,0 +1,11 @@
+BASE_URL=https://the-internet.herokuapp.com/
+UNAME_XPATH=/html/body/div[2]/div/div/form/div[1]/div/input
+PASSWORD_XPATH=/html/body/div[2]/div/div/form/div[2]/div/input
+BUTTON_XPATH=/html/body/div[2]/div/div/form/button
+UNAME=tomsmith
+PASSWORD=SuperSecretPassword
+VERIF_BUTTON_XPATH=/html/body/div[2]/div/div/a
+SENDER_EMAIL=uptime.robot.py@gmail.com
+SENDER_PASSWORD=kkxz ykpe xykr ibze
+RECIEVER_EMAIL=lead04343@gmail.com
+
